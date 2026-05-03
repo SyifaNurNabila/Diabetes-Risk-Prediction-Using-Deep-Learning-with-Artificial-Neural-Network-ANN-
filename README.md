@@ -23,9 +23,6 @@ The goal of this research is to develop a data-driven predictive system that can
   - 0 = Non-diabetes
   - 1 = Diabetes
 
-Dataset link:
-https://github.com/hongweihaha/Diabetes-NHANESDataset/blob/main/Diabetes-NHANESDataset.csv
-
 ---
 
 ## Data Preprocessing
